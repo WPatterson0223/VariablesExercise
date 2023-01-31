@@ -11,6 +11,9 @@
             double ageDogYears = 46.5;
             decimal dogAge = 6.5m;
 
+            Console.WriteLine($"My dogs name is {dogName}. I call her {dogNickName} and I have had her for {hadDogFor} years.");
+            Console.WriteLine($"She is {dogAge} years old. That's {ageDogYears} in dog years.");
+            Console.WriteLine($"She is {goodGirl.ToString().ToLower()})ly the best dog ever!";
         }
     }
 }
