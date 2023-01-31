@@ -3,3 +3,13 @@
 /Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfoInputs.cache
 /Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.AssemblyInfo.cs
 /Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.csproj.CoreCompileInputs.cache
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.deps.json
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.runtimeconfig.json
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.dll
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/bin/Debug/net6.0/VariablesExercise.pdb
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.dll
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/refint/VariablesExercise.dll
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.pdb
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/VariablesExercise.genruntimeconfig.cache
+/Users/william/Desktop/Repos/VariablesExercise/VariablesExercise/obj/Debug/net6.0/ref/VariablesExercise.dll
